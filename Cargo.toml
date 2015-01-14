@@ -1,0 +1,7 @@
+[package]
+name = "Rusty Cat"
+version = "0.0.1"
+authors = [ "Jacob Wiltse <jwiltse@control-tec.com>" ]
+
+[[bin]]
+name = "cat"
